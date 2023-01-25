@@ -1,0 +1,328 @@
+body{
+    background-image: url('image/caosmos.jpg');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+    
+h1{
+    text-align: center;
+    color: lightsalmon;
+}
+
+p{
+    text-align: center;
+    color: lightcyan;
+}
+
+
+
+.va{
+    position: absolute;
+    left: 500px;
+    top: 10px;
+}
+
+.a{
+    position: absolute;
+    left: 1200;
+    top: 10px;
+}
+
+.r{
+    text-align: center;
+    color: rgb(23, 7, 61);
+    font-size: 200%;
+}
+
+.vvv{
+    position: absolute;
+    width: 1920px;
+    height: 70px;
+    top: 284px;
+    left: 0px;
+}
+
+.rrr{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 400px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30) 
+}
+.www{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 500px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.sss{
+    position: absolute;
+    width: 380;
+    height: 290;
+    left: 1310;
+    top: 380px;
+}
+
+.dd{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 750px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30) 
+}
+.ss{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 830px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.sir{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 1310;
+    top: 730px;
+}
+
+.kan{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 950px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+.kant{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 1030px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.alf{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 1220px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+.alft{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 1300px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.alfpic{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 1370;
+    top: 1230px;
+}
+
+.ark{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 1520px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+.arkt{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 1600px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.wid{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 1370;
+    top: 1600px;
+}
+
+.veg{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 1850px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+.vegt{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 1920px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.vegatv{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 990;
+    top: 1900px;
+}
+
+.gif1{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 1400;
+    top: 1900px;
+}
+
+.kap{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 2100px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+
+.kapt{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 2190px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.rig{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 2320px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+.rigt{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 2400px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.rigp{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 1300;
+    top: 2200px;
+}
+
+.ax{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 2500px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+.axt{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 2600px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.ahp{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 1200;
+    top: 2520px;
+}
+
+.bet{
+    text-align: center;
+    color: rgb(190, 224, 36);
+    font-size: 250%;
+    position: absolute;
+    top: 2860px;
+    left: 10px;
+    text-shadow: rgb(171, 210, 30)
+}
+
+.bett{
+    text-align: left;
+    color: rgb(255, 227, 136);
+    font-size: 180%;
+    position: absolute;
+    top: 2950px;
+    left: 0px;
+    background-color: rgba(131, 31, 31, 0.329);
+}
+
+.bettv{
+    position: absolute;
+    width: 380;
+    height: 300;
+    left: 1240;
+    top: 2980px;
+}
+
+.gif2{
+    position: absolute;
+    width: 320;
+    height: 200;
+    left: 1540;
+    top: 2800px;
+}
+
+.asa{
+    text-align: center;
+    color: aliceblue;
+    top: 5%;
+}
